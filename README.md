@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently Studying at **SMIT in MERN STACK DEVELOPER COURSE**
 
-- 👨‍💻 All of my projects are available at ((https://fahadalam.netlify.app/))
+- 👨‍💻 All of my projects are available at https://fahadalam.netlify.app/
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,TalwindCSS,Javascript,Firebase**
 
