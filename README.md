@@ -1,7 +1,7 @@
 ![logo](https://github.com/Fahad12405/Fahad12405/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Fahad Alam</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
-<img align="right" alt= "coding" width="400" src="[https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)">
+<img align="right" alt= "coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad12405&label=Profile%20views&color=0e75b6&style=flat" alt="fahad12405" /> </p>
 
