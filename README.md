@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **fahadalam12405@gmail.com**
 
-- 📄 Know about my experiences ([file:///C:/Users/Fahad%20Alam/Desktop/Md%20Fahad%20alam%20Cv.pdf](https://fahad12405.github.io/CV/))
+- 📄 Know about my experiences (https://github.com/Fahad12405/Fahad12405/blob/main/Fahad%20Alam%20CV%20Resume.pdf)
 
 - ⚡ Fun fact **I Think I am Funny😁**
 
